@@ -16,7 +16,7 @@ Skills: Python
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/am-sazid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/am-sazid-205673316//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/am_sazid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AMSazid1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://am-sazid.github.io/am-sazid11/?fbclid=IwY2xjawF3fkpleHRuA2FlbQIxMAABHZJekpbMkPFvfaYFyT7Z-rUMILfR3Bu5vcsPBW1i8BWmxSAaH4tIgikzpQ_aem_81dHM34-Dp3BWcZttmZPZA)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amsazid.my-repo)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=am-sazid)](https://github.com/ryo-ma/github-profile-trophy)
 
