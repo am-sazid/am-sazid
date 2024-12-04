@@ -1,32 +1,37 @@
-Hi there 👋, my name is AM Sazid
-#### I am a Python Developer
-![I am a Python Developer](https://media.licdn.com/dms/image/v2/D5616AQHB_rizYD8MHg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728750173308?e=1733961600&v=beta&t=kejxa7WnCS2Cx7O8PcMo-wBi8dVfgLvoMs5VPz3Opjw)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AM Sazid</title>
 
-👋 Hi, I'm AM Sazid – a passionate Python developer with a strong focus on building efficient, scalable, and clean code. I enjoy solving complex problems, automating tasks, and exploring the latest technologies in the Python ecosystem.
+    <style>
+        *{
+            background-color: rgb(1,3,19);
+        }
+    </style>
 
+</head>
+<body>
+    <h2 style="text-align: center;
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;">Hi there 👋, my name is AM Sazid</h2>
+    <h3 style="    text-align: center;
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    box-shadow: 5px 5px 5px rgb(10, 29, 25);
+">I am a Python Developer</h3>
+    <img style="    width: 100%;
+    box-shadow: 10px 8px 20px rgba(108, 213, 254, 0.575);" src="image/Banner.png" alt="">
+    <p style="color: aliceblue; margin-top: 2%; border: 2px solid white; padding: 10px;">👋 Hi, I'm AM Sazid – a passionate Python developer with a strong focus on building efficient, scalable, and clean code. I enjoy solving complex problems, automating tasks, and exploring the latest technologies in the Python ecosystem.</p>
+    <label for="list" style="color: aliceblue;">Skill : Python</label>
+    <ol style="color: aliceblue;">
+        <li>🔭 I’m currently working on Student</li>
+        <li>🌱 I’m currently learning Python Programming</li>
+        <li>💬 Ask me about Python</li>
+    </ol>
 
-
-Skills: Python
-
-- 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Python Programming 
-- 💬 Ask me about Python  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/am-sazid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/am-sazid-205673316//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/am_sazid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AMSazid1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://am-sazid.github.io/am-sazid11/?fbclid=IwY2xjawF3fkpleHRuA2FlbQIxMAABHZJekpbMkPFvfaYFyT7Z-rUMILfR3Bu5vcsPBW1i8BWmxSAaH4tIgikzpQ_aem_81dHM34-Dp3BWcZttmZPZA)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=am-sazid)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-sazid)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=am-sazid&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/am-sazid/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/am-sazid)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=am-sazid)  
-
+    <p><a id="github" href="https://github.com/am-sazid"><img src="image/github logo.png" alt="" width="70px;"></a> <span><a class="three" href="https://www.linkedin.com/in/am-sazid-205673316/"><img src="image/linkdin logo.png" alt="" width="100px" ></a> <a class="three" href="https://x.com/AMSazid1"><img src="image/twitter logo.png" alt="" width="120px"></a> <a class="three" href="https://am-sazid.github.io/am-sazid11"><img src="image/Website logo.png" alt="" width="80px"></a></span> </p>
+    
+</body>
+</html>
