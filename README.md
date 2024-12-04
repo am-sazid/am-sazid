@@ -1,4 +1,4 @@
-### Hi there 👋, my name is AM Sazid
+<h1 style="text-align: center;" >Hi there 👋, my name is AM Sazid</h1>
 #### I am a Python Developer
 ![I am a Python Developer](https://media.licdn.com/dms/image/v2/D5616AQHB_rizYD8MHg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728750173308?e=1733961600&v=beta&t=kejxa7WnCS2Cx7O8PcMo-wBi8dVfgLvoMs5VPz3Opjw)
 
