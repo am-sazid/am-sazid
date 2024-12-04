@@ -26,7 +26,6 @@ Skills: Python
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/am-sazid/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/am-sazid)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=am-sazid)  
 
