@@ -21,7 +21,6 @@ Skills: Python
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=am-sazid&" alt="am-sazid" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=am-sazid)](https://github.com/ryo-ma/github-profile-trophy)
 
