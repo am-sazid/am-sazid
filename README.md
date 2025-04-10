@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AM Sazid</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=am-sazid&label=Profile%20views&color=0e75b6&style=flat" alt="am-sazid" /> </p>
 👋 Hi, I'm AM Sazid – a passionate Python developer with a strong focus on building efficient, scalable, and clean code. I enjoy solving complex problems, automating tasks, and exploring the latest technologies in the Python ecosystem.
 
 
