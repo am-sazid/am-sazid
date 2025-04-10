@@ -32,6 +32,8 @@ Skills: Python
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/am-sazid/contributions?format=svg&private=false)  
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=am-sazid&" alt="am-sazid" /></p>
+
 
 
 
