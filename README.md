@@ -11,6 +11,7 @@ Skills: Python
 - 🌱 I’m currently learning Python Programming 
 - 💬 Ask me about Python  
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=am-sazid&" alt="am-sazid" /></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/am-sazid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/am-sazid-205673316//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/am_sazid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AMSazid1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://am-sazid.github.io/am-sazid11/?fbclid=IwY2xjawF3fkpleHRuA2FlbQIxMAABHZJekpbMkPFvfaYFyT7Z-rUMILfR3Bu5vcsPBW1i8BWmxSAaH4tIgikzpQ_aem_81dHM34-Dp3BWcZttmZPZA)  
 
