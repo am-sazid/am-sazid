@@ -34,9 +34,5 @@ Skills: Python
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-sazid&show_icons=true&locale=en&layout=compact" alt="am-sazid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am-sazid&show_icons=true&locale=en" alt="am-sazid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=am-sazid&" alt="am-sazid" /></p>
-
 
 
