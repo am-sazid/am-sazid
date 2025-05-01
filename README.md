@@ -25,8 +25,13 @@ Skills: Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=am-sazid)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=am-sazid&show_icons=true)  
+---
+  ### :zap: GitHub Stats
+  <br/>
+  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+<br />
 
+---
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/am-sazid/contributions?format=svg&private=false)  
 
 
