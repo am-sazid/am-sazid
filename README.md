@@ -28,7 +28,7 @@ Skills: Python
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Sazid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=am-sazid&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
