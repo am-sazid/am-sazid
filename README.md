@@ -1,4 +1,4 @@
-
+<img src="https://media.licdn.com/dms/image/v2/D5616AQENIZypJmEnPw/profile-displaybackgroundimage-shrink_350_1400/B56Zda_m.LGQAY-/0/1749578314795?e=1759363200&v=beta&t=9J2CoVXH9Vva_wybylsDiCr5VT_js5CXkzVD8-Hjmdg" />
 <h1 align="center">Hi 👋, I'm AM Sazid</h1>
 <h3 align="center">A passionate Python developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-sazid&label=Profile%20views&color=0e75b6&style=flat" alt="am-sazid" /> </p>
