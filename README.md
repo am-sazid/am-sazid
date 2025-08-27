@@ -1,16 +1,16 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQENIZypJmEnPw/profile-displaybackgroundimage-shrink_350_1400/B56Zda_m.LGQAY-/0/1749578314795?e=1759363200&v=beta&t=9J2CoVXH9Vva_wybylsDiCr5VT_js5CXkzVD8-Hjmdg" />
 <h1 align="center">Hi 👋, I'm AM Sazid</h1>
-<h3 align="center">A passionate Python developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-sazid&label=Profile%20views&color=0e75b6&style=flat" alt="am-sazid" /> </p>
-👋 Hi, I'm AM Sazid – a passionate Python developer with a strong focus on building efficient, scalable, and clean code. I enjoy solving complex problems, automating tasks, and exploring the latest technologies in the Python ecosystem.
+👋 Hi, I'm AM Sazid – a passionate web developer and competitive programmer with a strong focus on building efficient, scalable, and clean code. I enjoy solving complex problems, developing user-friendly web applications, and exploring the latest technologies in modern web development.
 
 
 
 Skills: Python
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Python Programming 
-- 💬 Ask me about Python  
+- 🌱 I’m currently learning Python Programming and Web Development
+- 💬 Ask me about Python and Web development
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/am-sazid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/am-sazid-205673316//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/am_sazid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AMSazid1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://am-sazid.github.io/am-sazid11/?fbclid=IwY2xjawF3fkpleHRuA2FlbQIxMAABHZJekpbMkPFvfaYFyT7Z-rUMILfR3Bu5vcsPBW1i8BWmxSAaH4tIgikzpQ_aem_81dHM34-Dp3BWcZttmZPZA)  
