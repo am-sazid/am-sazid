@@ -1,4 +1,4 @@
-<!-- <img src="https://media.licdn.com/dms/image/v2/D5616AQGK_dKnwS55Ew/profile-displaybackgroundimage-shrink_350_1400/B56ZvWVEHLHsAc-/0/1768827406838?e=1770854400&v=beta&t=QlxWOh0S6QZ4Ac2alvle7RAg_bRkq1sCdU8uFw3wE1Q"/> -->
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGK_dKnwS55Ew/profile-displaybackgroundimage-shrink_350_1400/B56ZvWVEHLHsAc-/0/1768827406838?e=1772668800&v=beta&t=wTmJWQWRTgxQkKvGjbYOjm4wkCx2FatseKGEzmiIxRw"/>
 
 <h1 align="center">Hi 👋, I'm A M Sazid</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
