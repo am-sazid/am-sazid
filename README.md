@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm A M Sazid</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-sazid&label=Profile%20views&color=0e75b6&style=flat" alt="am-sazid" /> </p>
+
 👋 Hi, I'm AM Sazid – a passionate web developer and competitive programmer with a strong focus on building efficient, scalable, and clean code. I enjoy solving complex problems, developing user-friendly web applications, and exploring the latest technologies in modern web development.
 
 
