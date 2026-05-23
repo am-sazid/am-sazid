@@ -1,5 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGK_dKnwS55Ew/profile-displaybackgroundimage-shrink_350_1400/B56ZvWVEHLHsAc-/0/1768827406838?e=1779321600&v=beta&t=tVjZobbGPC2Vhq4eUWBfSh6VNhuhKZIMjDxgHCmiz0E"/>
 
+
 <h1 align="center">Hi 👋, I'm A M Sazid</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-sazid&label=Profile%20views&color=0e75b6&style=flat" alt="am-sazid" /> </p>
