@@ -1,10 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGK_dKnwS55Ew/profile-displaybackgroundimage-shrink_200_800/B56ZvWVEHLHsAY-/0/1768827406838?e=1784160000&v=beta&t=PeQ5OfTZAm3YIWVh_So0vrpToDNEJZZjR-QfSDhTJ2A"/>
 
-<img src="https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/728580744_1432316385403426_4021466169542288214_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1536x2048&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGP8NDFUPtMn4F4CPiH27ARKs7-UOB3JxMqzv5Q4HcnE6vGJKwgbqzUbkI7gehq5s21AH4iBjx4wBlpqbBijbgb&_nc_ohc=ZXNSPBvZaMcQ7kNvwFv8WPd&_nc_oc=AdqDwM44bp_v3Z-9JtOW8vGCLhQfXg9eB2Di0Lr1Yvt1vrJXzVQA_k7Hjd03EWkbkPw&_nc_zt=23&_nc_ht=scontent.fdac31-2.fna&_nc_gid=-ZQUzudvJpTYXG7FMwtBJQ&_nc_ss=7b2a8&oh=00_Af8oqc-0PUAoMTvudJbnEY9Exu_vMqpxxnxY3VrjH8P_bA&oe=6A48610F"/>
-
-
-
-
 <h1 align="center">Hi 👋, I'm A M Sazid</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-sazid&label=Profile%20views&color=0e75b6&style=flat" alt="am-sazid" /> </p>
