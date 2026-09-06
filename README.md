@@ -7,7 +7,6 @@
 👋 Hi, I'm AM Sazid – a passionate web developer and competitive programmer with a strong focus on building efficient, scalable, and clean code. I enjoy solving complex problems, developing user-friendly web applications, and exploring the latest technologies in modern web development.
 
 
-
 <p align="center">
   <picture>
     <source
@@ -58,5 +57,5 @@ Skills: Python
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=am-sazid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Proudly created By AM Sazid
+Proudly created by AM Sazid
 
